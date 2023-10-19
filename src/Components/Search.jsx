@@ -23,7 +23,7 @@ function Search(props) {
       setApiCallState(false);
       setFood('');
     }
-  },[apiCallState])
+  },[apiCallState,setApiCallState])
 
   return (
     <form onSubmit={handleSubmit} className="search">

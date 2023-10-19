@@ -3,7 +3,6 @@ import Search from "../Components/Search";
 import "./styles.css";
 import Card from "../Components/card/Card";
 import Favourites from "../Components/card/Favourites";
-import { type } from "@testing-library/user-event/dist/type";
 import { ThemeContext } from "../App";
 
 
