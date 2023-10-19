@@ -1,0 +1,10 @@
+#themeButton{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+    box-shadow: 2px 5px 15px black;
+    display: block;
+    margin: 15px auto 30px;
+}

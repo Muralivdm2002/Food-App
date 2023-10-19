@@ -1,0 +1,28 @@
+.loading{
+    margin: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.recipeeContainer{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+
+.favourites{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    height: 330px;
+    overflow: auto;
+}
+
+.favouriteContainer input{
+    margin: 20px auto;
+    display: block;
+}
+
