@@ -57,6 +57,7 @@ function Home() {
         setLoading(false);
         setRecipees(results);
         setApiCallState(true);
+        alert("scroll down to see the results")
       } else {
         setLoading(false);
         alert("no results found");
